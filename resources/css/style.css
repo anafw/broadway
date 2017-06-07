@@ -21,6 +21,10 @@ h1, h2, h3 {
   color: white;
 }
 
+.supporting {
+  text-align: center;
+}
+
 .supporting h2 {
   font-size: 32px;
 }
